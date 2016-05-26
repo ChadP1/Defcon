@@ -1,0 +1,28 @@
+PODS:
+  - CCHexagonFlowLayout (1.0.2)
+  - pop (1.0.9)
+  - SwiftyJSON (2.3.2)
+  - VideoSplashKit (1.1.0)
+
+DEPENDENCIES:
+  - CCHexagonFlowLayout
+  - pop (~> 1.0)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+  - VideoSplashKit
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 2a5b70f06001316d4fb54501edc70b4084705da0
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  CCHexagonFlowLayout: b500d18bfb2381d6b02d2a69686831a3186b62e7
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  VideoSplashKit: 0aa63d0bb37c5bd357de3e6a2a13dea5acad4d66
+
+COCOAPODS: 0.39.0
